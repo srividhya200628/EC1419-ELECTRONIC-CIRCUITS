@@ -3,7 +3,16 @@
 <img width="381" height="301" alt="image" src="https://github.com/user-attachments/assets/17144186-836e-449a-bfad-90d487b2d6ad" />
 <img width="752" height="497" alt="image" src="https://github.com/user-attachments/assets/e23953c7-bb20-4b94-aadb-8b5530894bac" />
 <img width="591" height="461" alt="image" src="https://github.com/user-attachments/assets/b9852354-c1e4-46dc-b7c0-0b9490f17d07" />
+# TABULATION
+with filter
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/92c70544-a8d3-417e-a29c-34f8df07bc18" />
+without filter
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/871b8b04-4b1d-449f-9c00-7e9bee2a306f" />
+# MODEL GRAPH
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/d89ae7af-40d1-4e19-8213-e49ee6a32057" />
 
+# OUTPUT
+<img width="826" height="329" alt="image" src="https://github.com/user-attachments/assets/4e9622a5-b7a6-4595-a6a9-88ac64f174fc" />
 
 ## TINKER CAD OUTPUT CIRCUIT
 
