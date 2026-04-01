@@ -25,8 +25,12 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
+<img width="1447" height="1148" alt="image" src="https://github.com/user-attachments/assets/b2e0d496-5f86-45e3-bb3b-0c12006b05f2" />
+<img width="1340" height="1148" alt="image" src="https://github.com/user-attachments/assets/f455b4e9-3d04-40be-a664-2602c8111f77" />
 
 ## Graph
+<img width="1410" height="1148" alt="image" src="https://github.com/user-attachments/assets/ca9f1adf-6b92-480b-9958-8ca74c9d3acd" />
+<img width="828" height="612" alt="image" src="https://github.com/user-attachments/assets/cd8c517b-93e3-414e-b4c6-dfd52b189fee" />
 
 
 ## **Result**
