@@ -25,17 +25,20 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
-![WhatsApp Image 2026-03-30 at 12 54 33 PM](https://github.com/user-attachments/assets/0548ccb7-4d69-46bd-b571-bc0840e3970e)
 
 
-![WhatsApp Image 2026-03-30 at 12 55 02 PM](https://github.com/user-attachments/assets/21145750-2600-49d4-833c-bbf7981600ee)
+<img width="1447" height="1148" alt="image" src="https://github.com/user-attachments/assets/a3fd3856-1c54-4b30-94c6-9eb5b6e381bd" />
 
+
+<img width="1340" height="1148" alt="image" src="https://github.com/user-attachments/assets/fe295945-b223-4966-96cf-ecd30105b4b6" />
 
 
 
 ## Graph
 
-![WhatsApp Image 2026-03-30 at 1 11 34 PM](https://github.com/user-attachments/assets/726a3690-6a17-4606-a359-59d6c0fc09fd)
+<img width="1410" height="1148" alt="image" src="https://github.com/user-attachments/assets/4d24e21b-b776-4750-8249-2579c0e669b5" />
+
+<img width="828" height="612" alt="image" src="https://github.com/user-attachments/assets/ab50adaf-3e25-480e-811a-8dcfdf7002f4" />
 
 
 ## **Result**
